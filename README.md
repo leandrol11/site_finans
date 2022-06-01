@@ -1,0 +1,1 @@
+7o Projeto do curso de desenvolvimento web, que consiste em um site de layout responsivo do app fictício Finans, baseado no Organize. Em sua construção foram utilizados conhecimentos bootstrap.

@@ -1,0 +1,16 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#home {
+    color: white;
+}
+
+.caixa-conteudo {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.rodape {
+    height: 50px;
+}
